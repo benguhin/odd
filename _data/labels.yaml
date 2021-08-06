@@ -1,10 +1,10 @@
-intro_markdown: This content was formerly an official website of the City of Austin. It used to function at odd.austintexas.io, but the CNAME file was deleted on July 20th, 2021 (link here to Github commit history). In the spirit of transparency and open source, we’ve re-published its content here. You can also view it with the former domain using web.archive.org
+intro_markdown: Another thing
 site_title: |
     Office of Design & Delivery
 translate: Translate
 home: Home
 header_projects_button_text: Work with us
-header_projects_button_url: https://odd.austintexas.io/service-design/#contact
+header_projects_button_url: https://wewereodd.com/service-design/#contact
 last_revision_prefix: Updated
 footer_headline: Be part of the change.
 footer_lede: Curiosity and joy can help governments design & deliver better services.
